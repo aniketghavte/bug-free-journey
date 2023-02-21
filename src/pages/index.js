@@ -102,7 +102,7 @@ export default function Home() {
             <p style={{fontSize: '2.5rem', marginTop: '2rem', fontWeight: '600'}}>ITSA</p>
             <p style={{fontSize: '1.5rem', marginTop: '1rem'}}>Presents</p>
             <div className={styles.thirteen} style={{marginTop: '2rem', marginLeft: '4rem'}}>
-            <p style={{fontSize: '2rem', fontWeight: '600'}}>DPU's Got Talent</p>
+            <p style={{fontSize: '2rem', fontWeight: '600'}}>DPUs Got Talent</p>
              </div>
              {/* <Image
                 src="/dancingguy.svg"
@@ -205,7 +205,7 @@ export default function Home() {
                   height={100}
                   priority
                 />
-                <p style={{marginLeft: '1rem'}}><a href='https://www.instagram.com/itsa_dpu/?hl=en' target='_blank'> Click here to Follow us on Instagarm</a></p>
+                <p style={{marginLeft: '1rem'}}><a href='https://www.instagram.com/itsa_dpu/?hl=en' target='_blank' rel="noreferrer"> Click here to Follow us on Instagarm</a></p>
             </div>
            </div>
           </>}
